@@ -42,3 +42,11 @@ npm run test
 I have used "Jest" to do the unit tests.
 
 To validate the solution, I have implemented these test cases: 
+
+1. Creating an instance of Casher class
+2. All values in coin list are not integer
+3. Test with amount 7 and denominationList = [1, 5, 10]
+4. Test with amount 11 and denominationList = [2, 5, 10]
+5. Test with amount 29 and denominationList = [1, 5, 10]
+6. Test with amount 143 and denominationList = [8, 7, 3, 12, 6]
+7. Test with amount 10 and denominationList = []

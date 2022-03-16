@@ -11,7 +11,7 @@ describe("Casher tests", () => {
     });
 
 
-    it('All values in coin list is not integer', () => {
+    it('All values in coin list are not integer', () => {
         denominationList = [1, 5, 10.7];
 
         try {
