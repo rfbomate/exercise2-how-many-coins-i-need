@@ -6,8 +6,10 @@ Note that you have access to an unlimited amount of coins. In other words, if th
 
 If it's impossible to make change for the target amount, return -1.
   
- Sample Input:
+Sample Input:
+
 n = 7
+
 denoms = [1, 5, 10]
 
 Sample Output:
